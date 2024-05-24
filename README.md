@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-borba-de-quadros-0b7ba6268/)
 
 
-#### Técnico em desenvolvimento de sistemas(previsto para terminar 2024)
+#### Técnico em desenvolvimento de sistemas(previsto para terminar em 2024)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHBorba&show_icons=true&theme=radical)
 
