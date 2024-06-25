@@ -3,6 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negoprets?igsh=ejVhaHI0ZzRreGpm)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-borba-de-quadros-0b7ba6268/)
+[![Gmail]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))]<a href = "mailto:pborba361@gmail.com">.
 
 
 #### Técnico em desenvolvimento de sistemas(previsto para terminar em 2024)
